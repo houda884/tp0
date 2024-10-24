@@ -9,3 +9,5 @@ git
 bonsoir
 saluut
 dddd
+bien
+salu\
